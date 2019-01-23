@@ -22,7 +22,7 @@
 
         <ImageView
             android:layout_width="fill_parent"
-            android:layout_height="150dp"
+            android:layout_height="151dp"
             android:id="@+id/ivmaggi"
             android:src="@drawable/maggi"/>
         <Button
@@ -34,7 +34,7 @@
             android:layout_marginLeft="245dp"/>
         <Button
             android:layout_width="30dp"
-            android:layout_height="20dp"
+            android:layout_height="10dp"
             android:background="@color/buttonshownum"
             android:id="@+id/bshownum"
             android:layout_marginTop="120dp"
